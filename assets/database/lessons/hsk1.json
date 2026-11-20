@@ -1,0 +1,8002 @@
+{
+  "metadata": {
+    "name": "KOYETI HSK 1-2 Hanzi",
+    "version": "2.0.0",
+    "source": "HSK 2.0 vocabulary list (2012 revision), levels 1-2",
+    "hsk_level": 1,
+    "card_count": 174,
+    "word_count": 150,
+    "language": [
+      "zh-Hans",
+      "en",
+      "th"
+    ]
+  },
+  "cards": [
+    {
+      "unicode": "7231",
+      "character": "爱",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "ài"
+      ],
+      "meaning": {
+        "en": [
+          "love",
+          "to love"
+        ],
+        "th": [
+          "รัก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "爱",
+          "pinyin": "ài",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to love"
+            ],
+            "th": [
+              "รัก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "516B",
+      "character": "八",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "bā"
+      ],
+      "meaning": {
+        "en": [
+          "eight"
+        ],
+        "th": [
+          "แปด"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "八",
+          "pinyin": "bā",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "eight"
+            ],
+            "th": [
+              "แปด"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "7238",
+      "character": "爸",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "bà"
+      ],
+      "meaning": {
+        "en": [
+          "dad",
+          "father"
+        ],
+        "th": [
+          "พ่อ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "爸爸",
+          "pinyin": "bàba",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "dad"
+            ],
+            "th": [
+              "พ่อ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "676F",
+      "character": "杯",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "bēi"
+      ],
+      "meaning": {
+        "en": [
+          "cup",
+          "glass"
+        ],
+        "th": [
+          "แก้ว",
+          "ถ้วย"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "杯子",
+          "pinyin": "bēizi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "cup",
+              "glass"
+            ],
+            "th": [
+              "แก้วน้ำ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5B50",
+      "character": "子",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zǐ",
+        "zi"
+      ],
+      "meaning": {
+        "en": [
+          "child",
+          "noun suffix"
+        ],
+        "th": [
+          "ลูก",
+          "คำเติมท้ายคำนาม"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "杯子",
+          "pinyin": "bēizi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "cup",
+              "glass"
+            ],
+            "th": [
+              "แก้วน้ำ"
+            ]
+          }
+        },
+        {
+          "word": "儿子",
+          "pinyin": "érzi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "son"
+            ],
+            "th": [
+              "ลูกชาย"
+            ]
+          }
+        },
+        {
+          "word": "椅子",
+          "pinyin": "yǐzi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "chair"
+            ],
+            "th": [
+              "เก้าอี้"
+            ]
+          }
+        },
+        {
+          "word": "桌子",
+          "pinyin": "zhuōzi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "table",
+              "desk"
+            ],
+            "th": [
+              "โต๊ะ"
+            ]
+          }
+        },
+        {
+          "word": "孩子",
+          "pinyin": "háizi",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "child"
+            ],
+            "th": [
+              "เด็ก",
+              "ลูก"
+            ]
+          }
+        },
+        {
+          "word": "妻子",
+          "pinyin": "qīzi",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "wife"
+            ],
+            "th": [
+              "ภรรยา"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5317",
+      "character": "北",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "běi"
+      ],
+      "meaning": {
+        "en": [
+          "north"
+        ],
+        "th": [
+          "ทิศเหนือ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "北京",
+          "pinyin": "Běijīng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "Beijing"
+            ],
+            "th": [
+              "ปักกิ่ง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4EAC",
+      "character": "京",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jīng"
+      ],
+      "meaning": {
+        "en": [
+          "capital city"
+        ],
+        "th": [
+          "เมืองหลวง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "北京",
+          "pinyin": "Běijīng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "Beijing"
+            ],
+            "th": [
+              "ปักกิ่ง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "672C",
+      "character": "本",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "běn"
+      ],
+      "meaning": {
+        "en": [
+          "root",
+          "origin",
+          "measure word for books"
+        ],
+        "th": [
+          "ราก",
+          "ต้นกำเนิด",
+          "ลักษณนามของหนังสือ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "本",
+          "pinyin": "běn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "measure word for books"
+            ],
+            "th": [
+              "ลักษณนามของหนังสือ (เล่ม)"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E0D",
+      "character": "不",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "bù"
+      ],
+      "meaning": {
+        "en": [
+          "not",
+          "no"
+        ],
+        "th": [
+          "ไม่"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "不",
+          "pinyin": "bù",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "not",
+              "no"
+            ],
+            "th": [
+              "ไม่"
+            ]
+          }
+        },
+        {
+          "word": "不客气",
+          "pinyin": "bú kèqi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "you're welcome"
+            ],
+            "th": [
+              "ไม่ต้องเกรงใจ"
+            ]
+          }
+        },
+        {
+          "word": "对不起",
+          "pinyin": "duìbuqǐ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "sorry"
+            ],
+            "th": [
+              "ขอโทษ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5BA2",
+      "character": "客",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "kè"
+      ],
+      "meaning": {
+        "en": [
+          "guest",
+          "visitor"
+        ],
+        "th": [
+          "แขก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "不客气",
+          "pinyin": "bú kèqi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "you're welcome"
+            ],
+            "th": [
+              "ไม่ต้องเกรงใจ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6C14",
+      "character": "气",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "qì"
+      ],
+      "meaning": {
+        "en": [
+          "air",
+          "gas",
+          "anger"
+        ],
+        "th": [
+          "อากาศ",
+          "แก๊ส",
+          "ความโกรธ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "不客气",
+          "pinyin": "bú kèqi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "you're welcome"
+            ],
+            "th": [
+              "ไม่ต้องเกรงใจ"
+            ]
+          }
+        },
+        {
+          "word": "天气",
+          "pinyin": "tiānqì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "weather"
+            ],
+            "th": [
+              "อากาศ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "83DC",
+      "character": "菜",
+      "hsk": 1,
+      "stroke_count": 11,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "cài"
+      ],
+      "meaning": {
+        "en": [
+          "dish",
+          "vegetable"
+        ],
+        "th": [
+          "กับข้าว",
+          "ผัก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "菜",
+          "pinyin": "cài",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "dish",
+              "vegetable"
+            ],
+            "th": [
+              "กับข้าว",
+              "ผัก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8336",
+      "character": "茶",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "chá"
+      ],
+      "meaning": {
+        "en": [
+          "tea"
+        ],
+        "th": [
+          "ชา"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "茶",
+          "pinyin": "chá",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "tea"
+            ],
+            "th": [
+              "ชา"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5403",
+      "character": "吃",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "chī"
+      ],
+      "meaning": {
+        "en": [
+          "to eat"
+        ],
+        "th": [
+          "กิน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "吃",
+          "pinyin": "chī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to eat"
+            ],
+            "th": [
+              "กิน"
+            ]
+          }
+        },
+        {
+          "word": "好吃",
+          "pinyin": "hǎochī",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "tasty"
+            ],
+            "th": [
+              "อร่อย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "51FA",
+      "character": "出",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "chū"
+      ],
+      "meaning": {
+        "en": [
+          "to go out",
+          "to come out"
+        ],
+        "th": [
+          "ออก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "出",
+          "pinyin": "chū",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to go out"
+            ],
+            "th": [
+              "ออก"
+            ]
+          }
+        },
+        {
+          "word": "出租车",
+          "pinyin": "chūzūchē",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "taxi"
+            ],
+            "th": [
+              "แท็กซี่"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "79DF",
+      "character": "租",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zū"
+      ],
+      "meaning": {
+        "en": [
+          "to rent"
+        ],
+        "th": [
+          "เช่า"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "出租车",
+          "pinyin": "chūzūchē",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "taxi"
+            ],
+            "th": [
+              "แท็กซี่"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8F66",
+      "character": "车",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "chē"
+      ],
+      "meaning": {
+        "en": [
+          "vehicle",
+          "car"
+        ],
+        "th": [
+          "รถ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "出租车",
+          "pinyin": "chūzūchē",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "taxi"
+            ],
+            "th": [
+              "แท็กซี่"
+            ]
+          }
+        },
+        {
+          "word": "公共汽车",
+          "pinyin": "gōnggòng qìchē",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "bus"
+            ],
+            "th": [
+              "รถเมล์"
+            ]
+          }
+        },
+        {
+          "word": "火车站",
+          "pinyin": "huǒchēzhàn",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "train station"
+            ],
+            "th": [
+              "สถานีรถไฟ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6253",
+      "character": "打",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "dǎ"
+      ],
+      "meaning": {
+        "en": [
+          "to hit",
+          "to play (ball)",
+          "to make (a call)"
+        ],
+        "th": [
+          "ตี",
+          "เล่น (บอล)",
+          "โทร"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "打电话",
+          "pinyin": "dǎ diànhuà",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to make a phone call"
+            ],
+            "th": [
+              "โทรศัพท์"
+            ]
+          }
+        },
+        {
+          "word": "打篮球",
+          "pinyin": "dǎ lánqiú",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to play basketball"
+            ],
+            "th": [
+              "เล่นบาสเกตบอล"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "7535",
+      "character": "电",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "diàn"
+      ],
+      "meaning": {
+        "en": [
+          "electricity"
+        ],
+        "th": [
+          "ไฟฟ้า"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "打电话",
+          "pinyin": "dǎ diànhuà",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to make a phone call"
+            ],
+            "th": [
+              "โทรศัพท์"
+            ]
+          }
+        },
+        {
+          "word": "电脑",
+          "pinyin": "diànnǎo",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "computer"
+            ],
+            "th": [
+              "คอมพิวเตอร์"
+            ]
+          }
+        },
+        {
+          "word": "电视",
+          "pinyin": "diànshì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "television"
+            ],
+            "th": [
+              "โทรทัศน์"
+            ]
+          }
+        },
+        {
+          "word": "电影",
+          "pinyin": "diànyǐng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "movie"
+            ],
+            "th": [
+              "ภาพยนตร์"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8BDD",
+      "character": "话",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "huà"
+      ],
+      "meaning": {
+        "en": [
+          "speech",
+          "words"
+        ],
+        "th": [
+          "คำพูด"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "打电话",
+          "pinyin": "dǎ diànhuà",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to make a phone call"
+            ],
+            "th": [
+              "โทรศัพท์"
+            ]
+          }
+        },
+        {
+          "word": "说话",
+          "pinyin": "shuōhuà",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to talk"
+            ],
+            "th": [
+              "พูดคุย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5927",
+      "character": "大",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "dà"
+      ],
+      "meaning": {
+        "en": [
+          "big",
+          "large"
+        ],
+        "th": [
+          "ใหญ่"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "大",
+          "pinyin": "dà",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "big"
+            ],
+            "th": [
+              "ใหญ่"
+            ]
+          }
+        },
+        {
+          "word": "大家",
+          "pinyin": "dàjiā",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "everyone"
+            ],
+            "th": [
+              "ทุกคน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "7684",
+      "character": "的",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "de"
+      ],
+      "meaning": {
+        "en": [
+          "possessive particle"
+        ],
+        "th": [
+          "คำช่วยแสดงความเป็นเจ้าของ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "的",
+          "pinyin": "de",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "possessive particle"
+            ],
+            "th": [
+              "คำช่วยแสดงความเป็นเจ้าของ (ของ)"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "70B9",
+      "character": "点",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "diǎn"
+      ],
+      "meaning": {
+        "en": [
+          "dot",
+          "point",
+          "o'clock"
+        ],
+        "th": [
+          "จุด",
+          "โมง (นาฬิกา)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "点",
+          "pinyin": "diǎn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "o'clock",
+              "dot"
+            ],
+            "th": [
+              "โมง (นาฬิกา)",
+              "จุด"
+            ]
+          }
+        },
+        {
+          "word": "一点儿",
+          "pinyin": "yìdiǎnr",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "a little"
+            ],
+            "th": [
+              "นิดหน่อย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8111",
+      "character": "脑",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "nǎo"
+      ],
+      "meaning": {
+        "en": [
+          "brain"
+        ],
+        "th": [
+          "สมอง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "电脑",
+          "pinyin": "diànnǎo",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "computer"
+            ],
+            "th": [
+              "คอมพิวเตอร์"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "89C6",
+      "character": "视",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shì"
+      ],
+      "meaning": {
+        "en": [
+          "to look at",
+          "vision"
+        ],
+        "th": [
+          "มอง",
+          "การมองเห็น"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "电视",
+          "pinyin": "diànshì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "television"
+            ],
+            "th": [
+              "โทรทัศน์"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5F71",
+      "character": "影",
+      "hsk": 1,
+      "stroke_count": 15,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yǐng"
+      ],
+      "meaning": {
+        "en": [
+          "shadow",
+          "image"
+        ],
+        "th": [
+          "เงา",
+          "ภาพ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "电影",
+          "pinyin": "diànyǐng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "movie"
+            ],
+            "th": [
+              "ภาพยนตร์"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E1C",
+      "character": "东",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "dōng"
+      ],
+      "meaning": {
+        "en": [
+          "east"
+        ],
+        "th": [
+          "ทิศตะวันออก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "东西",
+          "pinyin": "dōngxi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "thing",
+              "stuff"
+            ],
+            "th": [
+              "สิ่งของ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "897F",
+      "character": "西",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xī"
+      ],
+      "meaning": {
+        "en": [
+          "west"
+        ],
+        "th": [
+          "ทิศตะวันตก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "东西",
+          "pinyin": "dōngxi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "thing",
+              "stuff"
+            ],
+            "th": [
+              "สิ่งของ"
+            ]
+          }
+        },
+        {
+          "word": "西瓜",
+          "pinyin": "xīguā",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "watermelon"
+            ],
+            "th": [
+              "แตงโม"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "90FD",
+      "character": "都",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "dōu"
+      ],
+      "meaning": {
+        "en": [
+          "all",
+          "both"
+        ],
+        "th": [
+          "ล้วน",
+          "ทั้งหมด"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "都",
+          "pinyin": "dōu",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "all",
+              "both"
+            ],
+            "th": [
+              "ล้วน",
+              "ทั้งหมด"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8BFB",
+      "character": "读",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "dú"
+      ],
+      "meaning": {
+        "en": [
+          "to read (aloud)"
+        ],
+        "th": [
+          "อ่าน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "读",
+          "pinyin": "dú",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to read (aloud)"
+            ],
+            "th": [
+              "อ่าน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5BF9",
+      "character": "对",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "duì"
+      ],
+      "meaning": {
+        "en": [
+          "correct",
+          "toward",
+          "to face"
+        ],
+        "th": [
+          "ถูกต้อง",
+          "ต่อ",
+          "หันหน้าเข้าหา"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "对",
+          "pinyin": "duì",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "correct",
+              "to",
+              "toward"
+            ],
+            "th": [
+              "ถูกต้อง",
+              "ต่อ"
+            ]
+          }
+        },
+        {
+          "word": "对不起",
+          "pinyin": "duìbuqǐ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "sorry"
+            ],
+            "th": [
+              "ขอโทษ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8D77",
+      "character": "起",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "qǐ"
+      ],
+      "meaning": {
+        "en": [
+          "to rise",
+          "to get up"
+        ],
+        "th": [
+          "ลุกขึ้น",
+          "ขึ้น"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "对不起",
+          "pinyin": "duìbuqǐ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "sorry"
+            ],
+            "th": [
+              "ขอโทษ"
+            ]
+          }
+        },
+        {
+          "word": "起床",
+          "pinyin": "qǐchuáng",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to get up"
+            ],
+            "th": [
+              "ตื่นนอน"
+            ]
+          }
+        },
+        {
+          "word": "一起",
+          "pinyin": "yìqǐ",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "together"
+            ],
+            "th": [
+              "ด้วยกัน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "591A",
+      "character": "多",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "duō"
+      ],
+      "meaning": {
+        "en": [
+          "many",
+          "much"
+        ],
+        "th": [
+          "มาก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "many",
+              "much"
+            ],
+            "th": [
+              "มาก"
+            ]
+          }
+        },
+        {
+          "word": "多少",
+          "pinyin": "duōshao",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "how many",
+              "how much"
+            ],
+            "th": [
+              "เท่าไร"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5C11",
+      "character": "少",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shǎo"
+      ],
+      "meaning": {
+        "en": [
+          "few",
+          "little"
+        ],
+        "th": [
+          "น้อย"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "少",
+          "pinyin": "shǎo",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "few",
+              "little"
+            ],
+            "th": [
+              "น้อย"
+            ]
+          }
+        },
+        {
+          "word": "多少",
+          "pinyin": "duōshao",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "how many",
+              "how much"
+            ],
+            "th": [
+              "เท่าไร"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "513F",
+      "character": "儿",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "ér",
+        "-r"
+      ],
+      "meaning": {
+        "en": [
+          "child",
+          "son",
+          "-r suffix"
+        ],
+        "th": [
+          "ลูก",
+          "เด็ก",
+          "เสียงท้าย -r"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "儿子",
+          "pinyin": "érzi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "son"
+            ],
+            "th": [
+              "ลูกชาย"
+            ]
+          }
+        },
+        {
+          "word": "哪儿",
+          "pinyin": "nǎr",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "where"
+            ],
+            "th": [
+              "ที่ไหน"
+            ]
+          }
+        },
+        {
+          "word": "女儿",
+          "pinyin": "nǚ'ér",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "daughter"
+            ],
+            "th": [
+              "ลูกสาว"
+            ]
+          }
+        },
+        {
+          "word": "一点儿",
+          "pinyin": "yìdiǎnr",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "a little"
+            ],
+            "th": [
+              "นิดหน่อย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E8C",
+      "character": "二",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "èr"
+      ],
+      "meaning": {
+        "en": [
+          "two"
+        ],
+        "th": [
+          "สอง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "二",
+          "pinyin": "èr",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "two"
+            ],
+            "th": [
+              "สอง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "996D",
+      "character": "饭",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "fàn"
+      ],
+      "meaning": {
+        "en": [
+          "cooked rice",
+          "meal"
+        ],
+        "th": [
+          "ข้าว",
+          "มื้ออาหาร"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "饭店",
+          "pinyin": "fàndiàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "restaurant",
+              "hotel"
+            ],
+            "th": [
+              "ร้านอาหาร",
+              "โรงแรม"
+            ]
+          }
+        },
+        {
+          "word": "米饭",
+          "pinyin": "mǐfàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "cooked rice"
+            ],
+            "th": [
+              "ข้าวสวย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5E97",
+      "character": "店",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "diàn"
+      ],
+      "meaning": {
+        "en": [
+          "shop",
+          "store"
+        ],
+        "th": [
+          "ร้าน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "饭店",
+          "pinyin": "fàndiàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "restaurant",
+              "hotel"
+            ],
+            "th": [
+              "ร้านอาหาร",
+              "โรงแรม"
+            ]
+          }
+        },
+        {
+          "word": "商店",
+          "pinyin": "shāngdiàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "shop",
+              "store"
+            ],
+            "th": [
+              "ร้านค้า"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "98DE",
+      "character": "飞",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "fēi"
+      ],
+      "meaning": {
+        "en": [
+          "to fly"
+        ],
+        "th": [
+          "บิน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "飞机",
+          "pinyin": "fēijī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "airplane"
+            ],
+            "th": [
+              "เครื่องบิน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "673A",
+      "character": "机",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jī"
+      ],
+      "meaning": {
+        "en": [
+          "machine",
+          "chance"
+        ],
+        "th": [
+          "เครื่องจักร",
+          "โอกาส"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "飞机",
+          "pinyin": "fēijī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "airplane"
+            ],
+            "th": [
+              "เครื่องบิน"
+            ]
+          }
+        },
+        {
+          "word": "机场",
+          "pinyin": "jīchǎng",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "airport"
+            ],
+            "th": [
+              "สนามบิน"
+            ]
+          }
+        },
+        {
+          "word": "手机",
+          "pinyin": "shǒujī",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "mobile phone"
+            ],
+            "th": [
+              "โทรศัพท์มือถือ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5206",
+      "character": "分",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "fēn"
+      ],
+      "meaning": {
+        "en": [
+          "to divide",
+          "minute",
+          "cent"
+        ],
+        "th": [
+          "แบ่ง",
+          "นาที",
+          "เฟิน (เงิน)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "分钟",
+          "pinyin": "fēnzhōng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "minute"
+            ],
+            "th": [
+              "นาที"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "949F",
+      "character": "钟",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zhōng"
+      ],
+      "meaning": {
+        "en": [
+          "clock",
+          "bell"
+        ],
+        "th": [
+          "นาฬิกา",
+          "ระฆัง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "分钟",
+          "pinyin": "fēnzhōng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "minute"
+            ],
+            "th": [
+              "นาที"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "9AD8",
+      "character": "高",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "gāo"
+      ],
+      "meaning": {
+        "en": [
+          "tall",
+          "high"
+        ],
+        "th": [
+          "สูง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "高",
+          "pinyin": "gāo",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "tall",
+              "high"
+            ],
+            "th": [
+              "สูง"
+            ]
+          }
+        },
+        {
+          "word": "高兴",
+          "pinyin": "gāoxìng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "happy",
+              "glad"
+            ],
+            "th": [
+              "ดีใจ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5174",
+      "character": "兴",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xìng"
+      ],
+      "meaning": {
+        "en": [
+          "interest",
+          "mood"
+        ],
+        "th": [
+          "ความสนใจ",
+          "อารมณ์"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "高兴",
+          "pinyin": "gāoxìng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "happy",
+              "glad"
+            ],
+            "th": [
+              "ดีใจ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E2A",
+      "character": "个",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "gè"
+      ],
+      "meaning": {
+        "en": [
+          "general measure word"
+        ],
+        "th": [
+          "ลักษณนามทั่วไป (อัน, คน)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "个",
+          "pinyin": "gè",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "general measure word"
+            ],
+            "th": [
+              "ลักษณนามทั่วไป (อัน, คน)"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5DE5",
+      "character": "工",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "gōng"
+      ],
+      "meaning": {
+        "en": [
+          "work",
+          "worker"
+        ],
+        "th": [
+          "งาน",
+          "คนงาน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "工作",
+          "pinyin": "gōngzuò",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to work",
+              "job"
+            ],
+            "th": [
+              "ทำงาน",
+              "งาน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4F5C",
+      "character": "作",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zuò"
+      ],
+      "meaning": {
+        "en": [
+          "to do",
+          "to make"
+        ],
+        "th": [
+          "ทำ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "工作",
+          "pinyin": "gōngzuò",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to work",
+              "job"
+            ],
+            "th": [
+              "ทำงาน",
+              "งาน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "72D7",
+      "character": "狗",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "gǒu"
+      ],
+      "meaning": {
+        "en": [
+          "dog"
+        ],
+        "th": [
+          "สุนัข"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "狗",
+          "pinyin": "gǒu",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "dog"
+            ],
+            "th": [
+              "สุนัข"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6C49",
+      "character": "汉",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "hàn"
+      ],
+      "meaning": {
+        "en": [
+          "Han Chinese"
+        ],
+        "th": [
+          "ชาวฮั่น (จีน)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "汉语",
+          "pinyin": "Hànyǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "Chinese language"
+            ],
+            "th": [
+              "ภาษาจีน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8BED",
+      "character": "语",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yǔ"
+      ],
+      "meaning": {
+        "en": [
+          "language"
+        ],
+        "th": [
+          "ภาษา"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "汉语",
+          "pinyin": "Hànyǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "Chinese language"
+            ],
+            "th": [
+              "ภาษาจีน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "597D",
+      "character": "好",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "hǎo"
+      ],
+      "meaning": {
+        "en": [
+          "good",
+          "well"
+        ],
+        "th": [
+          "ดี"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "好",
+          "pinyin": "hǎo",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "good",
+              "well"
+            ],
+            "th": [
+              "ดี"
+            ]
+          }
+        },
+        {
+          "word": "好吃",
+          "pinyin": "hǎochī",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "tasty"
+            ],
+            "th": [
+              "อร่อย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "53F7",
+      "character": "号",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "hào"
+      ],
+      "meaning": {
+        "en": [
+          "number",
+          "date"
+        ],
+        "th": [
+          "หมายเลข",
+          "วันที่"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "号",
+          "pinyin": "hào",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "day of month",
+              "number"
+            ],
+            "th": [
+              "วันที่",
+              "หมายเลข"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "559D",
+      "character": "喝",
+      "hsk": 1,
+      "stroke_count": 12,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "hē"
+      ],
+      "meaning": {
+        "en": [
+          "to drink"
+        ],
+        "th": [
+          "ดื่ม"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "喝",
+          "pinyin": "hē",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to drink"
+            ],
+            "th": [
+              "ดื่ม"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "548C",
+      "character": "和",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "hé"
+      ],
+      "meaning": {
+        "en": [
+          "and",
+          "with",
+          "peace"
+        ],
+        "th": [
+          "และ",
+          "กับ",
+          "สันติ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "和",
+          "pinyin": "hé",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "and",
+              "with"
+            ],
+            "th": [
+              "และ",
+              "กับ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5F88",
+      "character": "很",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "hěn"
+      ],
+      "meaning": {
+        "en": [
+          "very"
+        ],
+        "th": [
+          "มาก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "very"
+            ],
+            "th": [
+              "มาก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "540E",
+      "character": "后",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "hòu"
+      ],
+      "meaning": {
+        "en": [
+          "behind",
+          "after"
+        ],
+        "th": [
+          "หลัง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "后面",
+          "pinyin": "hòumian",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "behind",
+              "at the back"
+            ],
+            "th": [
+              "ข้างหลัง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "9762",
+      "character": "面",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "miàn"
+      ],
+      "meaning": {
+        "en": [
+          "face",
+          "side",
+          "noodles"
+        ],
+        "th": [
+          "หน้า",
+          "ด้าน",
+          "เส้นหมี่"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "后面",
+          "pinyin": "hòumian",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "behind",
+              "at the back"
+            ],
+            "th": [
+              "ข้างหลัง"
+            ]
+          }
+        },
+        {
+          "word": "前面",
+          "pinyin": "qiánmian",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "in front",
+              "ahead"
+            ],
+            "th": [
+              "ข้างหน้า"
+            ]
+          }
+        },
+        {
+          "word": "面条",
+          "pinyin": "miàntiáo",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "noodles"
+            ],
+            "th": [
+              "บะหมี่"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "56DE",
+      "character": "回",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "huí"
+      ],
+      "meaning": {
+        "en": [
+          "to return"
+        ],
+        "th": [
+          "กลับ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "回",
+          "pinyin": "huí",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to return"
+            ],
+            "th": [
+              "กลับ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4F1A",
+      "character": "会",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "huì"
+      ],
+      "meaning": {
+        "en": [
+          "can",
+          "to know how to",
+          "meeting"
+        ],
+        "th": [
+          "เป็น (ทำได้)",
+          "การประชุม"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "会",
+          "pinyin": "huì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "can",
+              "know how to"
+            ],
+            "th": [
+              "เป็น (ทำได้)",
+              "สามารถ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "51E0",
+      "character": "几",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jǐ"
+      ],
+      "meaning": {
+        "en": [
+          "how many",
+          "a few"
+        ],
+        "th": [
+          "กี่",
+          "สองสาม"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "几",
+          "pinyin": "jǐ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "how many",
+              "a few"
+            ],
+            "th": [
+              "กี่"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5BB6",
+      "character": "家",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jiā"
+      ],
+      "meaning": {
+        "en": [
+          "home",
+          "family"
+        ],
+        "th": [
+          "บ้าน",
+          "ครอบครัว"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "家",
+          "pinyin": "jiā",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "home",
+              "family"
+            ],
+            "th": [
+              "บ้าน",
+              "ครอบครัว"
+            ]
+          }
+        },
+        {
+          "word": "大家",
+          "pinyin": "dàjiā",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "everyone"
+            ],
+            "th": [
+              "ทุกคน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "53EB",
+      "character": "叫",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jiào"
+      ],
+      "meaning": {
+        "en": [
+          "to call",
+          "to be called"
+        ],
+        "th": [
+          "เรียก",
+          "ชื่อว่า"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "叫",
+          "pinyin": "jiào",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to be called",
+              "to call"
+            ],
+            "th": [
+              "ชื่อว่า",
+              "เรียก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4ECA",
+      "character": "今",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jīn"
+      ],
+      "meaning": {
+        "en": [
+          "now",
+          "today"
+        ],
+        "th": [
+          "ปัจจุบัน",
+          "วันนี้"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "今天",
+          "pinyin": "jīntiān",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "today"
+            ],
+            "th": [
+              "วันนี้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5929",
+      "character": "天",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "tiān"
+      ],
+      "meaning": {
+        "en": [
+          "sky",
+          "day"
+        ],
+        "th": [
+          "ท้องฟ้า",
+          "วัน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "今天",
+          "pinyin": "jīntiān",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "today"
+            ],
+            "th": [
+              "วันนี้"
+            ]
+          }
+        },
+        {
+          "word": "明天",
+          "pinyin": "míngtiān",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "tomorrow"
+            ],
+            "th": [
+              "พรุ่งนี้"
+            ]
+          }
+        },
+        {
+          "word": "天气",
+          "pinyin": "tiānqì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "weather"
+            ],
+            "th": [
+              "อากาศ"
+            ]
+          }
+        },
+        {
+          "word": "昨天",
+          "pinyin": "zuótiān",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "yesterday"
+            ],
+            "th": [
+              "เมื่อวานนี้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E5D",
+      "character": "九",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jiǔ"
+      ],
+      "meaning": {
+        "en": [
+          "nine"
+        ],
+        "th": [
+          "เก้า"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "九",
+          "pinyin": "jiǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "nine"
+            ],
+            "th": [
+              "เก้า"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5F00",
+      "character": "开",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "kāi"
+      ],
+      "meaning": {
+        "en": [
+          "to open",
+          "to drive"
+        ],
+        "th": [
+          "เปิด",
+          "ขับ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "开",
+          "pinyin": "kāi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to open",
+              "to drive"
+            ],
+            "th": [
+              "เปิด",
+              "ขับ"
+            ]
+          }
+        },
+        {
+          "word": "开始",
+          "pinyin": "kāishǐ",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to begin"
+            ],
+            "th": [
+              "เริ่ม"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "770B",
+      "character": "看",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "kàn"
+      ],
+      "meaning": {
+        "en": [
+          "to look",
+          "to watch"
+        ],
+        "th": [
+          "ดู"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "看",
+          "pinyin": "kàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to look",
+              "to watch"
+            ],
+            "th": [
+              "ดู"
+            ]
+          }
+        },
+        {
+          "word": "看见",
+          "pinyin": "kànjiàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to see"
+            ],
+            "th": [
+              "เห็น"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "89C1",
+      "character": "见",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jiàn"
+      ],
+      "meaning": {
+        "en": [
+          "to see",
+          "to meet"
+        ],
+        "th": [
+          "เห็น",
+          "พบ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "看见",
+          "pinyin": "kànjiàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to see"
+            ],
+            "th": [
+              "เห็น"
+            ]
+          }
+        },
+        {
+          "word": "再见",
+          "pinyin": "zàijiàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "goodbye"
+            ],
+            "th": [
+              "ลาก่อน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5757",
+      "character": "块",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "kuài"
+      ],
+      "meaning": {
+        "en": [
+          "piece",
+          "yuan (money)"
+        ],
+        "th": [
+          "ก้อน",
+          "หยวน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "块",
+          "pinyin": "kuài",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "yuan (money)",
+              "piece"
+            ],
+            "th": [
+              "หยวน",
+              "ก้อน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6765",
+      "character": "来",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "lái"
+      ],
+      "meaning": {
+        "en": [
+          "to come"
+        ],
+        "th": [
+          "มา"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "来",
+          "pinyin": "lái",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to come"
+            ],
+            "th": [
+              "มา"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8001",
+      "character": "老",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "lǎo"
+      ],
+      "meaning": {
+        "en": [
+          "old"
+        ],
+        "th": [
+          "แก่",
+          "เก่า"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "老师",
+          "pinyin": "lǎoshī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "teacher"
+            ],
+            "th": [
+              "ครู"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5E08",
+      "character": "师",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shī"
+      ],
+      "meaning": {
+        "en": [
+          "teacher",
+          "master"
+        ],
+        "th": [
+          "ครู",
+          "อาจารย์"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "老师",
+          "pinyin": "lǎoshī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "teacher"
+            ],
+            "th": [
+              "ครู"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E86",
+      "character": "了",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "le"
+      ],
+      "meaning": {
+        "en": [
+          "particle: completed action"
+        ],
+        "th": [
+          "คำช่วยแสดงว่าเสร็จแล้ว"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "了",
+          "pinyin": "le",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "particle: completed action"
+            ],
+            "th": [
+              "คำช่วยแสดงว่าเสร็จแล้ว"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "51B7",
+      "character": "冷",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "lěng"
+      ],
+      "meaning": {
+        "en": [
+          "cold"
+        ],
+        "th": [
+          "หนาว",
+          "เย็น"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "冷",
+          "pinyin": "lěng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "cold"
+            ],
+            "th": [
+              "หนาว",
+              "เย็น"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "91CC",
+      "character": "里",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "lǐ"
+      ],
+      "meaning": {
+        "en": [
+          "inside"
+        ],
+        "th": [
+          "ข้างใน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "里",
+          "pinyin": "lǐ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "inside"
+            ],
+            "th": [
+              "ข้างใน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "516D",
+      "character": "六",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "liù"
+      ],
+      "meaning": {
+        "en": [
+          "six"
+        ],
+        "th": [
+          "หก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "六",
+          "pinyin": "liù",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "six"
+            ],
+            "th": [
+              "หก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5988",
+      "character": "妈",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "mā"
+      ],
+      "meaning": {
+        "en": [
+          "mom",
+          "mother"
+        ],
+        "th": [
+          "แม่"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "妈妈",
+          "pinyin": "māma",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "mom"
+            ],
+            "th": [
+              "แม่"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5417",
+      "character": "吗",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "ma"
+      ],
+      "meaning": {
+        "en": [
+          "question particle"
+        ],
+        "th": [
+          "คำช่วยท้ายประโยคคำถาม"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "吗",
+          "pinyin": "ma",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "question particle"
+            ],
+            "th": [
+              "คำช่วยท้ายประโยคคำถาม"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E70",
+      "character": "买",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "mǎi"
+      ],
+      "meaning": {
+        "en": [
+          "to buy"
+        ],
+        "th": [
+          "ซื้อ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "买",
+          "pinyin": "mǎi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to buy"
+            ],
+            "th": [
+              "ซื้อ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "732B",
+      "character": "猫",
+      "hsk": 1,
+      "stroke_count": 11,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "māo"
+      ],
+      "meaning": {
+        "en": [
+          "cat"
+        ],
+        "th": [
+          "แมว"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "猫",
+          "pinyin": "māo",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "cat"
+            ],
+            "th": [
+              "แมว"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6CA1",
+      "character": "没",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "méi"
+      ],
+      "meaning": {
+        "en": [
+          "not (have)"
+        ],
+        "th": [
+          "ไม่ (มี)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "没关系",
+          "pinyin": "méi guānxi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "it doesn't matter"
+            ],
+            "th": [
+              "ไม่เป็นไร"
+            ]
+          }
+        },
+        {
+          "word": "没有",
+          "pinyin": "méiyǒu",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "not have",
+              "did not"
+            ],
+            "th": [
+              "ไม่มี",
+              "ไม่ได้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5173",
+      "character": "关",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "guān"
+      ],
+      "meaning": {
+        "en": [
+          "to close",
+          "to concern"
+        ],
+        "th": [
+          "ปิด",
+          "เกี่ยวข้อง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "没关系",
+          "pinyin": "méi guānxi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "it doesn't matter"
+            ],
+            "th": [
+              "ไม่เป็นไร"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "7CFB",
+      "character": "系",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xì"
+      ],
+      "meaning": {
+        "en": [
+          "system",
+          "to relate"
+        ],
+        "th": [
+          "ระบบ",
+          "เกี่ยวพัน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "没关系",
+          "pinyin": "méi guānxi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "it doesn't matter"
+            ],
+            "th": [
+              "ไม่เป็นไร"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6709",
+      "character": "有",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yǒu"
+      ],
+      "meaning": {
+        "en": [
+          "to have",
+          "there is"
+        ],
+        "th": [
+          "มี"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "有",
+          "pinyin": "yǒu",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to have",
+              "there is"
+            ],
+            "th": [
+              "มี"
+            ]
+          }
+        },
+        {
+          "word": "没有",
+          "pinyin": "méiyǒu",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "not have",
+              "did not"
+            ],
+            "th": [
+              "ไม่มี",
+              "ไม่ได้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "7C73",
+      "character": "米",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "mǐ"
+      ],
+      "meaning": {
+        "en": [
+          "rice (uncooked)",
+          "meter"
+        ],
+        "th": [
+          "ข้าวสาร",
+          "เมตร"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "米饭",
+          "pinyin": "mǐfàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "cooked rice"
+            ],
+            "th": [
+              "ข้าวสวย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "660E",
+      "character": "明",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "míng"
+      ],
+      "meaning": {
+        "en": [
+          "bright",
+          "next (day, year)"
+        ],
+        "th": [
+          "สว่าง",
+          "(วัน, ปี) ถัดไป"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "明天",
+          "pinyin": "míngtiān",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "tomorrow"
+            ],
+            "th": [
+              "พรุ่งนี้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "540D",
+      "character": "名",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "míng"
+      ],
+      "meaning": {
+        "en": [
+          "name"
+        ],
+        "th": [
+          "ชื่อ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "名字",
+          "pinyin": "míngzi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "name"
+            ],
+            "th": [
+              "ชื่อ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5B57",
+      "character": "字",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zì"
+      ],
+      "meaning": {
+        "en": [
+          "character",
+          "word"
+        ],
+        "th": [
+          "ตัวอักษร"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "字",
+          "pinyin": "zì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "character",
+              "word"
+            ],
+            "th": [
+              "ตัวอักษร"
+            ]
+          }
+        },
+        {
+          "word": "名字",
+          "pinyin": "míngzi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "name"
+            ],
+            "th": [
+              "ชื่อ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "54EA",
+      "character": "哪",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "nǎ"
+      ],
+      "meaning": {
+        "en": [
+          "which"
+        ],
+        "th": [
+          "ไหน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "哪",
+          "pinyin": "nǎ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "which"
+            ],
+            "th": [
+              "ไหน"
+            ]
+          }
+        },
+        {
+          "word": "哪儿",
+          "pinyin": "nǎr",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "where"
+            ],
+            "th": [
+              "ที่ไหน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "90A3",
+      "character": "那",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "nà"
+      ],
+      "meaning": {
+        "en": [
+          "that"
+        ],
+        "th": [
+          "นั้น"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "那",
+          "pinyin": "nà",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "that"
+            ],
+            "th": [
+              "นั้น"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5462",
+      "character": "呢",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "ne"
+      ],
+      "meaning": {
+        "en": [
+          "particle: and you? / still"
+        ],
+        "th": [
+          "คำช่วยท้ายประโยค"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "呢",
+          "pinyin": "ne",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "particle: and you? / still"
+            ],
+            "th": [
+              "คำช่วยท้ายประโยค"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "80FD",
+      "character": "能",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "néng"
+      ],
+      "meaning": {
+        "en": [
+          "can",
+          "be able to"
+        ],
+        "th": [
+          "สามารถ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "能",
+          "pinyin": "néng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "can",
+              "be able to"
+            ],
+            "th": [
+              "สามารถ",
+              "ได้"
+            ]
+          }
+        },
+        {
+          "word": "可能",
+          "pinyin": "kěnéng",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "maybe",
+              "possible"
+            ],
+            "th": [
+              "อาจจะ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4F60",
+      "character": "你",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "nǐ"
+      ],
+      "meaning": {
+        "en": [
+          "you"
+        ],
+        "th": [
+          "คุณ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "你",
+          "pinyin": "nǐ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "you"
+            ],
+            "th": [
+              "คุณ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5E74",
+      "character": "年",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "nián"
+      ],
+      "meaning": {
+        "en": [
+          "year"
+        ],
+        "th": [
+          "ปี"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "年",
+          "pinyin": "nián",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "year"
+            ],
+            "th": [
+              "ปี"
+            ]
+          }
+        },
+        {
+          "word": "去年",
+          "pinyin": "qùnián",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "last year"
+            ],
+            "th": [
+              "ปีที่แล้ว"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5973",
+      "character": "女",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "nǚ"
+      ],
+      "meaning": {
+        "en": [
+          "female",
+          "woman"
+        ],
+        "th": [
+          "ผู้หญิง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "女",
+          "pinyin": "nǚ",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "female"
+            ],
+            "th": [
+              "ผู้หญิง",
+              "เพศหญิง"
+            ]
+          }
+        },
+        {
+          "word": "女儿",
+          "pinyin": "nǚ'ér",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "daughter"
+            ],
+            "th": [
+              "ลูกสาว"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "670B",
+      "character": "朋",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "péng"
+      ],
+      "meaning": {
+        "en": [
+          "friend"
+        ],
+        "th": [
+          "เพื่อน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "朋友",
+          "pinyin": "péngyou",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "friend"
+            ],
+            "th": [
+              "เพื่อน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "53CB",
+      "character": "友",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yǒu"
+      ],
+      "meaning": {
+        "en": [
+          "friend"
+        ],
+        "th": [
+          "เพื่อน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "朋友",
+          "pinyin": "péngyou",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "friend"
+            ],
+            "th": [
+              "เพื่อน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6F02",
+      "character": "漂",
+      "hsk": 1,
+      "stroke_count": 14,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "piào",
+        "piāo"
+      ],
+      "meaning": {
+        "en": [
+          "used in 'pretty'",
+          "to float"
+        ],
+        "th": [
+          "ใช้ในคำว่า สวย",
+          "ลอย"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "漂亮",
+          "pinyin": "piàoliang",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "pretty",
+              "beautiful"
+            ],
+            "th": [
+              "สวย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4EAE",
+      "character": "亮",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "liàng"
+      ],
+      "meaning": {
+        "en": [
+          "bright"
+        ],
+        "th": [
+          "สว่าง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "漂亮",
+          "pinyin": "piàoliang",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "pretty",
+              "beautiful"
+            ],
+            "th": [
+              "สวย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "82F9",
+      "character": "苹",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "píng"
+      ],
+      "meaning": {
+        "en": [
+          "used in 'apple'"
+        ],
+        "th": [
+          "ใช้ในคำว่า แอปเปิล"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "苹果",
+          "pinyin": "píngguǒ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "apple"
+            ],
+            "th": [
+              "แอปเปิล"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "679C",
+      "character": "果",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "guǒ"
+      ],
+      "meaning": {
+        "en": [
+          "fruit",
+          "result"
+        ],
+        "th": [
+          "ผลไม้",
+          "ผลลัพธ์"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "苹果",
+          "pinyin": "píngguǒ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "apple"
+            ],
+            "th": [
+              "แอปเปิล"
+            ]
+          }
+        },
+        {
+          "word": "水果",
+          "pinyin": "shuǐguǒ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "fruit"
+            ],
+            "th": [
+              "ผลไม้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E03",
+      "character": "七",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "qī"
+      ],
+      "meaning": {
+        "en": [
+          "seven"
+        ],
+        "th": [
+          "เจ็ด"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "七",
+          "pinyin": "qī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "seven"
+            ],
+            "th": [
+              "เจ็ด"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "94B1",
+      "character": "钱",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "qián"
+      ],
+      "meaning": {
+        "en": [
+          "money"
+        ],
+        "th": [
+          "เงิน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "钱",
+          "pinyin": "qián",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "money"
+            ],
+            "th": [
+              "เงิน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "524D",
+      "character": "前",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "qián"
+      ],
+      "meaning": {
+        "en": [
+          "front",
+          "before"
+        ],
+        "th": [
+          "ข้างหน้า",
+          "ก่อน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "前面",
+          "pinyin": "qiánmian",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "in front",
+              "ahead"
+            ],
+            "th": [
+              "ข้างหน้า"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8BF7",
+      "character": "请",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "qǐng"
+      ],
+      "meaning": {
+        "en": [
+          "please",
+          "to invite"
+        ],
+        "th": [
+          "กรุณา",
+          "เชิญ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "请",
+          "pinyin": "qǐng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "please",
+              "to invite"
+            ],
+            "th": [
+              "กรุณา",
+              "เชิญ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "53BB",
+      "character": "去",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "qù"
+      ],
+      "meaning": {
+        "en": [
+          "to go"
+        ],
+        "th": [
+          "ไป"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "去",
+          "pinyin": "qù",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to go"
+            ],
+            "th": [
+              "ไป"
+            ]
+          }
+        },
+        {
+          "word": "去年",
+          "pinyin": "qùnián",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "last year"
+            ],
+            "th": [
+              "ปีที่แล้ว"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "70ED",
+      "character": "热",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "rè"
+      ],
+      "meaning": {
+        "en": [
+          "hot"
+        ],
+        "th": [
+          "ร้อน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "热",
+          "pinyin": "rè",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "hot"
+            ],
+            "th": [
+              "ร้อน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4EBA",
+      "character": "人",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "rén"
+      ],
+      "meaning": {
+        "en": [
+          "person"
+        ],
+        "th": [
+          "คน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "人",
+          "pinyin": "rén",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "person"
+            ],
+            "th": [
+              "คน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8BA4",
+      "character": "认",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "rèn"
+      ],
+      "meaning": {
+        "en": [
+          "to recognize"
+        ],
+        "th": [
+          "จำได้",
+          "ยอมรับ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "认识",
+          "pinyin": "rènshi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to know (someone)"
+            ],
+            "th": [
+              "รู้จัก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8BC6",
+      "character": "识",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shí"
+      ],
+      "meaning": {
+        "en": [
+          "to know",
+          "knowledge"
+        ],
+        "th": [
+          "รู้",
+          "ความรู้"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "认识",
+          "pinyin": "rènshi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to know (someone)"
+            ],
+            "th": [
+              "รู้จัก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E09",
+      "character": "三",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "sān"
+      ],
+      "meaning": {
+        "en": [
+          "three"
+        ],
+        "th": [
+          "สาม"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "三",
+          "pinyin": "sān",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "three"
+            ],
+            "th": [
+              "สาม"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5546",
+      "character": "商",
+      "hsk": 1,
+      "stroke_count": 11,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shāng"
+      ],
+      "meaning": {
+        "en": [
+          "trade",
+          "business"
+        ],
+        "th": [
+          "การค้า"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "商店",
+          "pinyin": "shāngdiàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "shop",
+              "store"
+            ],
+            "th": [
+              "ร้านค้า"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E0A",
+      "character": "上",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shàng"
+      ],
+      "meaning": {
+        "en": [
+          "up",
+          "on",
+          "above"
+        ],
+        "th": [
+          "บน",
+          "ขึ้น"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "up",
+              "on",
+              "above"
+            ],
+            "th": [
+              "บน",
+              "ขึ้น"
+            ]
+          }
+        },
+        {
+          "word": "上午",
+          "pinyin": "shàngwǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "morning (before noon)"
+            ],
+            "th": [
+              "ช่วงเช้า (ก่อนเที่ยง)"
+            ]
+          }
+        },
+        {
+          "word": "上班",
+          "pinyin": "shàngbān",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to go to work"
+            ],
+            "th": [
+              "ไปทำงาน"
+            ]
+          }
+        },
+        {
+          "word": "晚上",
+          "pinyin": "wǎnshang",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "evening",
+              "night"
+            ],
+            "th": [
+              "ตอนเย็น",
+              "กลางคืน"
+            ]
+          }
+        },
+        {
+          "word": "早上",
+          "pinyin": "zǎoshang",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "early morning"
+            ],
+            "th": [
+              "ตอนเช้า"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5348",
+      "character": "午",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "wǔ"
+      ],
+      "meaning": {
+        "en": [
+          "noon"
+        ],
+        "th": [
+          "เที่ยง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "上午",
+          "pinyin": "shàngwǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "morning (before noon)"
+            ],
+            "th": [
+              "ช่วงเช้า (ก่อนเที่ยง)"
+            ]
+          }
+        },
+        {
+          "word": "下午",
+          "pinyin": "xiàwǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "afternoon"
+            ],
+            "th": [
+              "ช่วงบ่าย"
+            ]
+          }
+        },
+        {
+          "word": "中午",
+          "pinyin": "zhōngwǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "noon"
+            ],
+            "th": [
+              "เที่ยงวัน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8C01",
+      "character": "谁",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shéi",
+        "shuí"
+      ],
+      "meaning": {
+        "en": [
+          "who"
+        ],
+        "th": [
+          "ใคร"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "谁",
+          "pinyin": "shéi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "who"
+            ],
+            "th": [
+              "ใคร"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4EC0",
+      "character": "什",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shén"
+      ],
+      "meaning": {
+        "en": [
+          "used in 'what'"
+        ],
+        "th": [
+          "ใช้ในคำว่า อะไร"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "什么",
+          "pinyin": "shénme",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "what"
+            ],
+            "th": [
+              "อะไร"
+            ]
+          }
+        },
+        {
+          "word": "为什么",
+          "pinyin": "wèi shénme",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "why"
+            ],
+            "th": [
+              "ทำไม"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E48",
+      "character": "么",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "me"
+      ],
+      "meaning": {
+        "en": [
+          "suffix in 'what', 'how', 'why'"
+        ],
+        "th": [
+          "คำเติมใน อะไร, อย่างไร, ทำไม"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "什么",
+          "pinyin": "shénme",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "what"
+            ],
+            "th": [
+              "อะไร"
+            ]
+          }
+        },
+        {
+          "word": "怎么",
+          "pinyin": "zěnme",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "how",
+              "why"
+            ],
+            "th": [
+              "อย่างไร",
+              "ทำไม"
+            ]
+          }
+        },
+        {
+          "word": "怎么样",
+          "pinyin": "zěnmeyàng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "how about",
+              "how is it"
+            ],
+            "th": [
+              "เป็นอย่างไร"
+            ]
+          }
+        },
+        {
+          "word": "为什么",
+          "pinyin": "wèi shénme",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "why"
+            ],
+            "th": [
+              "ทำไม"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5341",
+      "character": "十",
+      "hsk": 1,
+      "stroke_count": 2,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shí"
+      ],
+      "meaning": {
+        "en": [
+          "ten"
+        ],
+        "th": [
+          "สิบ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "十",
+          "pinyin": "shí",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "ten"
+            ],
+            "th": [
+              "สิบ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "65F6",
+      "character": "时",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shí"
+      ],
+      "meaning": {
+        "en": [
+          "time",
+          "hour"
+        ],
+        "th": [
+          "เวลา",
+          "ชั่วโมง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "时候",
+          "pinyin": "shíhou",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "time",
+              "moment"
+            ],
+            "th": [
+              "เวลา",
+              "ตอนที่"
+            ]
+          }
+        },
+        {
+          "word": "时间",
+          "pinyin": "shíjiān",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "time"
+            ],
+            "th": [
+              "เวลา"
+            ]
+          }
+        },
+        {
+          "word": "小时",
+          "pinyin": "xiǎoshí",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "hour"
+            ],
+            "th": [
+              "ชั่วโมง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5019",
+      "character": "候",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "hòu"
+      ],
+      "meaning": {
+        "en": [
+          "to wait",
+          "time",
+          "season"
+        ],
+        "th": [
+          "รอ",
+          "ช่วงเวลา",
+          "ฤดู"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "时候",
+          "pinyin": "shíhou",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "time",
+              "moment"
+            ],
+            "th": [
+              "เวลา",
+              "ตอนที่"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "662F",
+      "character": "是",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shì"
+      ],
+      "meaning": {
+        "en": [
+          "to be",
+          "yes"
+        ],
+        "th": [
+          "เป็น",
+          "คือ",
+          "ใช่"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "是",
+          "pinyin": "shì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to be (am/is/are)"
+            ],
+            "th": [
+              "เป็น",
+              "คือ"
+            ]
+          }
+        },
+        {
+          "word": "但是",
+          "pinyin": "dànshì",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "but"
+            ],
+            "th": [
+              "แต่"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E66",
+      "character": "书",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shū"
+      ],
+      "meaning": {
+        "en": [
+          "book"
+        ],
+        "th": [
+          "หนังสือ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "书",
+          "pinyin": "shū",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "book"
+            ],
+            "th": [
+              "หนังสือ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6C34",
+      "character": "水",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shuǐ"
+      ],
+      "meaning": {
+        "en": [
+          "water"
+        ],
+        "th": [
+          "น้ำ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "水",
+          "pinyin": "shuǐ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "water"
+            ],
+            "th": [
+              "น้ำ"
+            ]
+          }
+        },
+        {
+          "word": "水果",
+          "pinyin": "shuǐguǒ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "fruit"
+            ],
+            "th": [
+              "ผลไม้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "7761",
+      "character": "睡",
+      "hsk": 1,
+      "stroke_count": 13,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shuì"
+      ],
+      "meaning": {
+        "en": [
+          "to sleep"
+        ],
+        "th": [
+          "นอน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "睡觉",
+          "pinyin": "shuìjiào",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to sleep"
+            ],
+            "th": [
+              "นอนหลับ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "89C9",
+      "character": "觉",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jiào",
+        "jué"
+      ],
+      "meaning": {
+        "en": [
+          "sleep",
+          "to feel"
+        ],
+        "th": [
+          "การนอน",
+          "รู้สึก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "睡觉",
+          "pinyin": "shuìjiào",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to sleep"
+            ],
+            "th": [
+              "นอนหลับ"
+            ]
+          }
+        },
+        {
+          "word": "觉得",
+          "pinyin": "juéde",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to feel",
+              "to think"
+            ],
+            "th": [
+              "รู้สึก",
+              "คิดว่า"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8BF4",
+      "character": "说",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shuō"
+      ],
+      "meaning": {
+        "en": [
+          "to speak",
+          "to say"
+        ],
+        "th": [
+          "พูด"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "说",
+          "pinyin": "shuō",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to speak",
+              "to say"
+            ],
+            "th": [
+              "พูด"
+            ]
+          }
+        },
+        {
+          "word": "说话",
+          "pinyin": "shuōhuà",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to talk"
+            ],
+            "th": [
+              "พูดคุย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "56DB",
+      "character": "四",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "sì"
+      ],
+      "meaning": {
+        "en": [
+          "four"
+        ],
+        "th": [
+          "สี่"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "四",
+          "pinyin": "sì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "four"
+            ],
+            "th": [
+              "สี่"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5C81",
+      "character": "岁",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "suì"
+      ],
+      "meaning": {
+        "en": [
+          "years of age"
+        ],
+        "th": [
+          "ขวบ",
+          "อายุ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "岁",
+          "pinyin": "suì",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "years old"
+            ],
+            "th": [
+              "ขวบ",
+              "อายุ (ปี)"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4ED6",
+      "character": "他",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "tā"
+      ],
+      "meaning": {
+        "en": [
+          "he",
+          "him"
+        ],
+        "th": [
+          "เขา (ผู้ชาย)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "他",
+          "pinyin": "tā",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "he",
+              "him"
+            ],
+            "th": [
+              "เขา (ผู้ชาย)"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5979",
+      "character": "她",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "tā"
+      ],
+      "meaning": {
+        "en": [
+          "she",
+          "her"
+        ],
+        "th": [
+          "เธอ (ผู้หญิง)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "她",
+          "pinyin": "tā",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "she",
+              "her"
+            ],
+            "th": [
+              "เธอ (ผู้หญิง)"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "592A",
+      "character": "太",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "tài"
+      ],
+      "meaning": {
+        "en": [
+          "too",
+          "extremely"
+        ],
+        "th": [
+          "เกินไป",
+          "มาก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "太",
+          "pinyin": "tài",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "too",
+              "extremely"
+            ],
+            "th": [
+              "เกินไป",
+              "มาก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "542C",
+      "character": "听",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "tīng"
+      ],
+      "meaning": {
+        "en": [
+          "to listen"
+        ],
+        "th": [
+          "ฟัง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "听",
+          "pinyin": "tīng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to listen"
+            ],
+            "th": [
+              "ฟัง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "540C",
+      "character": "同",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "tóng"
+      ],
+      "meaning": {
+        "en": [
+          "same",
+          "together"
+        ],
+        "th": [
+          "เหมือนกัน",
+          "ร่วมกัน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "同学",
+          "pinyin": "tóngxué",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "classmate"
+            ],
+            "th": [
+              "เพื่อนร่วมชั้น"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5B66",
+      "character": "学",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xué"
+      ],
+      "meaning": {
+        "en": [
+          "to study",
+          "to learn"
+        ],
+        "th": [
+          "เรียน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "同学",
+          "pinyin": "tóngxué",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "classmate"
+            ],
+            "th": [
+              "เพื่อนร่วมชั้น"
+            ]
+          }
+        },
+        {
+          "word": "学生",
+          "pinyin": "xuésheng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "student"
+            ],
+            "th": [
+              "นักเรียน"
+            ]
+          }
+        },
+        {
+          "word": "学习",
+          "pinyin": "xuéxí",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to study"
+            ],
+            "th": [
+              "เรียน"
+            ]
+          }
+        },
+        {
+          "word": "学校",
+          "pinyin": "xuéxiào",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "school"
+            ],
+            "th": [
+              "โรงเรียน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5582",
+      "character": "喂",
+      "hsk": 1,
+      "stroke_count": 12,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "wèi"
+      ],
+      "meaning": {
+        "en": [
+          "hello (on the phone)",
+          "to feed"
+        ],
+        "th": [
+          "ฮัลโหล",
+          "ป้อนอาหาร"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "喂",
+          "pinyin": "wèi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "hello (on the phone)"
+            ],
+            "th": [
+              "ฮัลโหล"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6211",
+      "character": "我",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "wǒ"
+      ],
+      "meaning": {
+        "en": [
+          "I",
+          "me"
+        ],
+        "th": [
+          "ฉัน",
+          "ผม"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "I",
+              "me"
+            ],
+            "th": [
+              "ฉัน",
+              "ผม"
+            ]
+          }
+        },
+        {
+          "word": "我们",
+          "pinyin": "wǒmen",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "we",
+              "us"
+            ],
+            "th": [
+              "พวกเรา"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4EEC",
+      "character": "们",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "men"
+      ],
+      "meaning": {
+        "en": [
+          "plural suffix for people"
+        ],
+        "th": [
+          "คำเติมแสดงพหูพจน์ (พวก)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "我们",
+          "pinyin": "wǒmen",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "we",
+              "us"
+            ],
+            "th": [
+              "พวกเรา"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E94",
+      "character": "五",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "wǔ"
+      ],
+      "meaning": {
+        "en": [
+          "five"
+        ],
+        "th": [
+          "ห้า"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "五",
+          "pinyin": "wǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "five"
+            ],
+            "th": [
+              "ห้า"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "559C",
+      "character": "喜",
+      "hsk": 1,
+      "stroke_count": 12,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xǐ"
+      ],
+      "meaning": {
+        "en": [
+          "happy",
+          "to like"
+        ],
+        "th": [
+          "ยินดี",
+          "ชอบ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "喜欢",
+          "pinyin": "xǐhuan",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to like"
+            ],
+            "th": [
+              "ชอบ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6B22",
+      "character": "欢",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "huān"
+      ],
+      "meaning": {
+        "en": [
+          "joyful",
+          "glad"
+        ],
+        "th": [
+          "ยินดี",
+          "สนุกสนาน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "喜欢",
+          "pinyin": "xǐhuan",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to like"
+            ],
+            "th": [
+              "ชอบ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E0B",
+      "character": "下",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xià"
+      ],
+      "meaning": {
+        "en": [
+          "down",
+          "below",
+          "next"
+        ],
+        "th": [
+          "ล่าง",
+          "ลง",
+          "ถัดไป"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "下",
+          "pinyin": "xià",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "down",
+              "below",
+              "next"
+            ],
+            "th": [
+              "ล่าง",
+              "ลง",
+              "ถัดไป"
+            ]
+          }
+        },
+        {
+          "word": "下午",
+          "pinyin": "xiàwǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "afternoon"
+            ],
+            "th": [
+              "ช่วงบ่าย"
+            ]
+          }
+        },
+        {
+          "word": "下雨",
+          "pinyin": "xiàyǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to rain"
+            ],
+            "th": [
+              "ฝนตก"
+            ]
+          }
+        },
+        {
+          "word": "一下",
+          "pinyin": "yíxià",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "a bit",
+              "once"
+            ],
+            "th": [
+              "สักหน่อย"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "96E8",
+      "character": "雨",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yǔ"
+      ],
+      "meaning": {
+        "en": [
+          "rain"
+        ],
+        "th": [
+          "ฝน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "下雨",
+          "pinyin": "xiàyǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to rain"
+            ],
+            "th": [
+              "ฝนตก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5148",
+      "character": "先",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xiān"
+      ],
+      "meaning": {
+        "en": [
+          "first",
+          "before"
+        ],
+        "th": [
+          "ก่อน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "先生",
+          "pinyin": "xiānsheng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "Mr.",
+              "sir",
+              "husband"
+            ],
+            "th": [
+              "คุณ (ผู้ชาย)",
+              "สามี"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "751F",
+      "character": "生",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "shēng"
+      ],
+      "meaning": {
+        "en": [
+          "to be born",
+          "life",
+          "raw"
+        ],
+        "th": [
+          "เกิด",
+          "ชีวิต",
+          "ดิบ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "先生",
+          "pinyin": "xiānsheng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "Mr.",
+              "sir",
+              "husband"
+            ],
+            "th": [
+              "คุณ (ผู้ชาย)",
+              "สามี"
+            ]
+          }
+        },
+        {
+          "word": "学生",
+          "pinyin": "xuésheng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "student"
+            ],
+            "th": [
+              "นักเรียน"
+            ]
+          }
+        },
+        {
+          "word": "医生",
+          "pinyin": "yīshēng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "doctor"
+            ],
+            "th": [
+              "หมอ",
+              "แพทย์"
+            ]
+          }
+        },
+        {
+          "word": "生病",
+          "pinyin": "shēngbìng",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "to get sick"
+            ],
+            "th": [
+              "ป่วย"
+            ]
+          }
+        },
+        {
+          "word": "生日",
+          "pinyin": "shēngrì",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "birthday"
+            ],
+            "th": [
+              "วันเกิด"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "73B0",
+      "character": "现",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xiàn"
+      ],
+      "meaning": {
+        "en": [
+          "present",
+          "now",
+          "to appear"
+        ],
+        "th": [
+          "ปัจจุบัน",
+          "ปรากฏ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "现在",
+          "pinyin": "xiànzài",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "now"
+            ],
+            "th": [
+              "ตอนนี้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5728",
+      "character": "在",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zài"
+      ],
+      "meaning": {
+        "en": [
+          "at",
+          "in",
+          "to exist"
+        ],
+        "th": [
+          "อยู่",
+          "ที่"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "在",
+          "pinyin": "zài",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "at",
+              "in",
+              "to be at"
+            ],
+            "th": [
+              "อยู่",
+              "ที่"
+            ]
+          }
+        },
+        {
+          "word": "现在",
+          "pinyin": "xiànzài",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "now"
+            ],
+            "th": [
+              "ตอนนี้"
+            ]
+          }
+        },
+        {
+          "word": "正在",
+          "pinyin": "zhèngzài",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "in the middle of doing"
+            ],
+            "th": [
+              "กำลัง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "60F3",
+      "character": "想",
+      "hsk": 1,
+      "stroke_count": 13,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xiǎng"
+      ],
+      "meaning": {
+        "en": [
+          "to want",
+          "to think",
+          "to miss"
+        ],
+        "th": [
+          "อยาก",
+          "คิด",
+          "คิดถึง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to want",
+              "to think",
+              "to miss"
+            ],
+            "th": [
+              "อยาก",
+              "คิด",
+              "คิดถึง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5C0F",
+      "character": "小",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xiǎo"
+      ],
+      "meaning": {
+        "en": [
+          "small",
+          "little"
+        ],
+        "th": [
+          "เล็ก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "小",
+          "pinyin": "xiǎo",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "small",
+              "little"
+            ],
+            "th": [
+              "เล็ก"
+            ]
+          }
+        },
+        {
+          "word": "小姐",
+          "pinyin": "xiǎojiě",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "Miss",
+              "young lady"
+            ],
+            "th": [
+              "คุณ (ผู้หญิง)",
+              "นางสาว"
+            ]
+          }
+        },
+        {
+          "word": "小时",
+          "pinyin": "xiǎoshí",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "hour"
+            ],
+            "th": [
+              "ชั่วโมง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "59D0",
+      "character": "姐",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "jiě"
+      ],
+      "meaning": {
+        "en": [
+          "older sister",
+          "Miss"
+        ],
+        "th": [
+          "พี่สาว",
+          "คุณผู้หญิง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "小姐",
+          "pinyin": "xiǎojiě",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "Miss",
+              "young lady"
+            ],
+            "th": [
+              "คุณ (ผู้หญิง)",
+              "นางสาว"
+            ]
+          }
+        },
+        {
+          "word": "姐姐",
+          "pinyin": "jiějie",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "older sister"
+            ],
+            "th": [
+              "พี่สาว"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E9B",
+      "character": "些",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xiē"
+      ],
+      "meaning": {
+        "en": [
+          "some"
+        ],
+        "th": [
+          "บ้าง",
+          "จำนวนหนึ่ง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "些",
+          "pinyin": "xiē",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "some"
+            ],
+            "th": [
+              "บ้าง",
+              "จำนวนหนึ่ง"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5199",
+      "character": "写",
+      "hsk": 1,
+      "stroke_count": 5,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xiě"
+      ],
+      "meaning": {
+        "en": [
+          "to write"
+        ],
+        "th": [
+          "เขียน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "写",
+          "pinyin": "xiě",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to write"
+            ],
+            "th": [
+              "เขียน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8C22",
+      "character": "谢",
+      "hsk": 1,
+      "stroke_count": 12,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xiè"
+      ],
+      "meaning": {
+        "en": [
+          "to thank"
+        ],
+        "th": [
+          "ขอบคุณ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "谢谢",
+          "pinyin": "xièxie",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "thank you"
+            ],
+            "th": [
+              "ขอบคุณ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "661F",
+      "character": "星",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xīng"
+      ],
+      "meaning": {
+        "en": [
+          "star"
+        ],
+        "th": [
+          "ดาว"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "星期",
+          "pinyin": "xīngqī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "week"
+            ],
+            "th": [
+              "สัปดาห์"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "671F",
+      "character": "期",
+      "hsk": 1,
+      "stroke_count": 12,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "qī"
+      ],
+      "meaning": {
+        "en": [
+          "period of time"
+        ],
+        "th": [
+          "ช่วงเวลา",
+          "งวด"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "星期",
+          "pinyin": "xīngqī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "week"
+            ],
+            "th": [
+              "สัปดาห์"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E60",
+      "character": "习",
+      "hsk": 1,
+      "stroke_count": 3,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xí"
+      ],
+      "meaning": {
+        "en": [
+          "to practice"
+        ],
+        "th": [
+          "ฝึกฝน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "学习",
+          "pinyin": "xuéxí",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to study"
+            ],
+            "th": [
+              "เรียน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6821",
+      "character": "校",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "xiào"
+      ],
+      "meaning": {
+        "en": [
+          "school"
+        ],
+        "th": [
+          "โรงเรียน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "学校",
+          "pinyin": "xuéxiào",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "school"
+            ],
+            "th": [
+              "โรงเรียน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E00",
+      "character": "一",
+      "hsk": 1,
+      "stroke_count": 1,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yī"
+      ],
+      "meaning": {
+        "en": [
+          "one"
+        ],
+        "th": [
+          "หนึ่ง"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "一",
+          "pinyin": "yī",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "one"
+            ],
+            "th": [
+              "หนึ่ง"
+            ]
+          }
+        },
+        {
+          "word": "一点儿",
+          "pinyin": "yìdiǎnr",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "a little"
+            ],
+            "th": [
+              "นิดหน่อย"
+            ]
+          }
+        },
+        {
+          "word": "第一",
+          "pinyin": "dì-yī",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "first"
+            ],
+            "th": [
+              "ที่หนึ่ง",
+              "แรก"
+            ]
+          }
+        },
+        {
+          "word": "一下",
+          "pinyin": "yíxià",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "a bit",
+              "once"
+            ],
+            "th": [
+              "สักหน่อย"
+            ]
+          }
+        },
+        {
+          "word": "一起",
+          "pinyin": "yìqǐ",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "together"
+            ],
+            "th": [
+              "ด้วยกัน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8863",
+      "character": "衣",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yī"
+      ],
+      "meaning": {
+        "en": [
+          "clothing"
+        ],
+        "th": [
+          "เสื้อผ้า"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "衣服",
+          "pinyin": "yīfu",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "clothes"
+            ],
+            "th": [
+              "เสื้อผ้า"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "670D",
+      "character": "服",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "fú"
+      ],
+      "meaning": {
+        "en": [
+          "clothes",
+          "to serve"
+        ],
+        "th": [
+          "เสื้อผ้า",
+          "บริการ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "衣服",
+          "pinyin": "yīfu",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "clothes"
+            ],
+            "th": [
+              "เสื้อผ้า"
+            ]
+          }
+        },
+        {
+          "word": "服务员",
+          "pinyin": "fúwùyuán",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "waiter",
+              "attendant"
+            ],
+            "th": [
+              "พนักงานบริการ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "533B",
+      "character": "医",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yī"
+      ],
+      "meaning": {
+        "en": [
+          "medicine",
+          "doctor"
+        ],
+        "th": [
+          "การแพทย์",
+          "หมอ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "医生",
+          "pinyin": "yīshēng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "doctor"
+            ],
+            "th": [
+              "หมอ",
+              "แพทย์"
+            ]
+          }
+        },
+        {
+          "word": "医院",
+          "pinyin": "yīyuàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "hospital"
+            ],
+            "th": [
+              "โรงพยาบาล"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "9662",
+      "character": "院",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yuàn"
+      ],
+      "meaning": {
+        "en": [
+          "courtyard",
+          "institution"
+        ],
+        "th": [
+          "ลานบ้าน",
+          "สถาบัน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "医院",
+          "pinyin": "yīyuàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "hospital"
+            ],
+            "th": [
+              "โรงพยาบาล"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6905",
+      "character": "椅",
+      "hsk": 1,
+      "stroke_count": 12,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yǐ"
+      ],
+      "meaning": {
+        "en": [
+          "chair"
+        ],
+        "th": [
+          "เก้าอี้"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "椅子",
+          "pinyin": "yǐzi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "chair"
+            ],
+            "th": [
+              "เก้าอี้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6708",
+      "character": "月",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yuè"
+      ],
+      "meaning": {
+        "en": [
+          "month",
+          "moon"
+        ],
+        "th": [
+          "เดือน",
+          "ดวงจันทร์"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "月",
+          "pinyin": "yuè",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "month",
+              "moon"
+            ],
+            "th": [
+              "เดือน",
+              "ดวงจันทร์"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "518D",
+      "character": "再",
+      "hsk": 1,
+      "stroke_count": 6,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zài"
+      ],
+      "meaning": {
+        "en": [
+          "again"
+        ],
+        "th": [
+          "อีก (ครั้ง)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "再",
+          "pinyin": "zài",
+          "hsk": 2,
+          "meaning": {
+            "en": [
+              "again"
+            ],
+            "th": [
+              "อีก (ครั้ง)"
+            ]
+          }
+        },
+        {
+          "word": "再见",
+          "pinyin": "zàijiàn",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "goodbye"
+            ],
+            "th": [
+              "ลาก่อน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "600E",
+      "character": "怎",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zěn"
+      ],
+      "meaning": {
+        "en": [
+          "how"
+        ],
+        "th": [
+          "อย่างไร"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "怎么",
+          "pinyin": "zěnme",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "how",
+              "why"
+            ],
+            "th": [
+              "อย่างไร",
+              "ทำไม"
+            ]
+          }
+        },
+        {
+          "word": "怎么样",
+          "pinyin": "zěnmeyàng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "how about",
+              "how is it"
+            ],
+            "th": [
+              "เป็นอย่างไร"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6837",
+      "character": "样",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "yàng"
+      ],
+      "meaning": {
+        "en": [
+          "kind",
+          "appearance"
+        ],
+        "th": [
+          "แบบ",
+          "ลักษณะ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "怎么样",
+          "pinyin": "zěnmeyàng",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "how about",
+              "how is it"
+            ],
+            "th": [
+              "เป็นอย่างไร"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "8FD9",
+      "character": "这",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zhè"
+      ],
+      "meaning": {
+        "en": [
+          "this"
+        ],
+        "th": [
+          "นี้"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "这",
+          "pinyin": "zhè",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "this"
+            ],
+            "th": [
+              "นี้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4E2D",
+      "character": "中",
+      "hsk": 1,
+      "stroke_count": 4,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zhōng"
+      ],
+      "meaning": {
+        "en": [
+          "middle",
+          "China"
+        ],
+        "th": [
+          "กลาง",
+          "จีน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "中国",
+          "pinyin": "Zhōngguó",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "China"
+            ],
+            "th": [
+              "ประเทศจีน"
+            ]
+          }
+        },
+        {
+          "word": "中午",
+          "pinyin": "zhōngwǔ",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "noon"
+            ],
+            "th": [
+              "เที่ยงวัน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "56FD",
+      "character": "国",
+      "hsk": 1,
+      "stroke_count": 8,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "guó"
+      ],
+      "meaning": {
+        "en": [
+          "country"
+        ],
+        "th": [
+          "ประเทศ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "中国",
+          "pinyin": "Zhōngguó",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "China"
+            ],
+            "th": [
+              "ประเทศจีน"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "4F4F",
+      "character": "住",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zhù"
+      ],
+      "meaning": {
+        "en": [
+          "to live",
+          "to stay"
+        ],
+        "th": [
+          "อาศัยอยู่",
+          "พัก"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "住",
+          "pinyin": "zhù",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to live",
+              "to stay"
+            ],
+            "th": [
+              "อาศัยอยู่",
+              "พัก"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "684C",
+      "character": "桌",
+      "hsk": 1,
+      "stroke_count": 10,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zhuō"
+      ],
+      "meaning": {
+        "en": [
+          "table",
+          "desk"
+        ],
+        "th": [
+          "โต๊ะ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "桌子",
+          "pinyin": "zhuōzi",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "table",
+              "desk"
+            ],
+            "th": [
+              "โต๊ะ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "6628",
+      "character": "昨",
+      "hsk": 1,
+      "stroke_count": 9,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zuó"
+      ],
+      "meaning": {
+        "en": [
+          "yesterday"
+        ],
+        "th": [
+          "เมื่อวาน"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "昨天",
+          "pinyin": "zuótiān",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "yesterday"
+            ],
+            "th": [
+              "เมื่อวานนี้"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "5750",
+      "character": "坐",
+      "hsk": 1,
+      "stroke_count": 7,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zuò"
+      ],
+      "meaning": {
+        "en": [
+          "to sit",
+          "to take (a bus)"
+        ],
+        "th": [
+          "นั่ง",
+          "นั่ง (รถ)"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "坐",
+          "pinyin": "zuò",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to sit",
+              "to take (a bus)"
+            ],
+            "th": [
+              "นั่ง",
+              "นั่ง (รถ)"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "unicode": "505A",
+      "character": "做",
+      "hsk": 1,
+      "stroke_count": 11,
+      "frequency": null,
+      "tags": [
+        "hsk1"
+      ],
+      "pinyin": [
+        "zuò"
+      ],
+      "meaning": {
+        "en": [
+          "to do",
+          "to make"
+        ],
+        "th": [
+          "ทำ"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "做",
+          "pinyin": "zuò",
+          "hsk": 1,
+          "meaning": {
+            "en": [
+              "to do",
+              "to make"
+            ],
+            "th": [
+              "ทำ"
+            ]
+          }
+        }
+      ],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated files
+assets/database/unifont.cache.json
+assets/bitmap/
+
+# KanjiVG
+assets/kanjivg/
+# Firmware build output
+build/
+dist/
+site/
+.pio/
